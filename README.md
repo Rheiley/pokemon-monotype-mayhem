@@ -5,3 +5,4 @@ This is a fangame made with [Pokemon Essentials v21.1](https://essentialsengine.
 - [Deluxe Battle Kit](https://eeveeexpo.com/resources/1470/)
 - [Generation 9 Resource Pack](https://eeveeexpo.com/resources/1101/)
 - [Animated Pokemon System](https://eeveeexpo.com/resources/1544/)
+- [Enhanced Battle UI](https://eeveeexpo.com/resources/1472/)
