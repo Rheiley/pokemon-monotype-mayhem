@@ -9,3 +9,4 @@ This is a fangame made with [Pokemon Essentials v21.1](https://essentialsengine.
 - [Z Power](https://eeveeexpo.com/resources/1478/)
 - [Bag Screen with Interactable Party](https://eeveeexpo.com/resources/723/)
 - [Pokemon Champions Stat System](https://eeveeexpo.com/resources/1839/)
+- [Following Pokemon EX](https://eeveeexpo.com/resources/516/)
